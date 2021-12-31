@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5555731f-4546-4dda-a9b9-17e24dfd1d8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/P2_aniort_nicolas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P2_aniort_nicolas.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img_livre/a897fe39b1053632/a897fe39b1053632.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/p2_aniort_nicolas/Lib/site-packages/_distutils_hack/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/p2_aniort_nicolas/Lib/site-packages/_distutils_hack/override.py" afterDir="false" />
@@ -1101,6 +1095,7 @@
       <change beforePath="$PROJECT_DIR$/../../PROJ2-Utilisez les bases de Python pour l'analyse de marché/P2_aniort_nicolasbis/scrap_book - Copie.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PROJ2-Utilisez les bases de Python pour l'analyse de marché/P2_aniort_nicolasbis/scrap_book.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PROJ2-Utilisez les bases de Python pour l'analyse de marché/P2_aniort_nicolasbis/scrap_book_by_category.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1161,7 +1156,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.scrap_book_by_category-multipage">
-    <configuration name="scrap_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scrap_book" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="P2_aniort_nicolas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1183,20 +1178,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scrap_book_by_category-multipage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="P2_aniort_nicolas" />
+    <configuration name="scrap_book_by_category-multipage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\conta\OneDrive\1-PROJETS_DEV\1-OC_PYTHON\PROJ2\P2_aniort_nicolas\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\conta\OneDrive\1-PROJETS_DEV\1-OC_PYTHON\PROJ2\P2_aniort_nicolas\scrap_book_by_category-multipage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrap_book_by_category-multipage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1227,7 +1222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testsyntaxe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="testsyntaxe" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="P2_aniort_nicolas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1249,13 +1244,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.scrap_book_by_category-multipage" />
-        <item itemvalue="Python.testsyntaxe" />
-        <item itemvalue="Python.scrap_book" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -1284,7 +1272,10 @@
       <workItem from="1640340633512" duration="627000" />
       <workItem from="1640627673111" duration="384000" />
       <workItem from="1640628553983" duration="10377000" />
-      <workItem from="1640874817777" duration="5053000" />
+      <workItem from="1640874817777" duration="6358000" />
+      <workItem from="1640885023967" duration="6085000" />
+      <workItem from="1640891862065" duration="10303000" />
+      <workItem from="1640941794955" duration="1962000" />
     </task>
     <servers />
   </component>
@@ -1378,6 +1369,96 @@
           <line>22</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../books-scraping-master/category_scraping.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap_book_by_category-multipage.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1389,11 +1470,12 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/scrap_book_by_category_multipage_py$scrap_book_by_category_multipage.coverage" NAME="scrap_book_by_category-multipage Coverage Results" MODIFIED="1640638208430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scrap_book_by_category_multipage_py$scrap_book_by_category_multipage.coverage" NAME="scrap_book_by_category-multipage Coverage Results" MODIFIED="1640942863397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scrap_book_by_category_multipage_py$scrap_book_by_category.coverage" NAME="scrap_book_by_category Coverage Results" MODIFIED="1640628661781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/P2_aniort_nicolasbis$scrap_book_by_category.coverage" NAME="scrap_book_by_category Coverage Results" MODIFIED="1640338335259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/P2_aniort_nicolasbis$testsyntaxe.coverage" NAME="testsyntaxe Coverage Results" MODIFIED="1639912412959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/P2_aniort_nicolas$scrap_book_by_category.coverage" NAME="scrap_book_by_category Coverage Results" MODIFIED="1640548061809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/P2_aniort_nicolasbis$scrap_book.coverage" NAME="scrap_book Coverage Results" MODIFIED="1639343684556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scrap_book_by_category_py$scrap_book_by_category_multipage.coverage" NAME="scrap_book_by_category-multipage Coverage Results" MODIFIED="1640891585649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
